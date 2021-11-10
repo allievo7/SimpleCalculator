@@ -1,0 +1,2 @@
+# SimpleCalculator
+sommo due numeri 
