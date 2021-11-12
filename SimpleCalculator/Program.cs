@@ -11,4 +11,7 @@ namespace SimpleCalculator
             Console.WriteLine("la somma è: " + (numero1int + numero2int));
         }
     }
+
+    // controlla e cambia argomenti numerici in double.
+    // controlla se stringa dei simboli è contenuta nell'array.
 }
